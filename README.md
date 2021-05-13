@@ -144,15 +144,21 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
-   Brincadeira "Morto!Vivo!":
+   :six:**Brincadeira "Morto!Vivo!" utilizando estrutura narrativa:**
 
    Quando chamada condição "Vivo"
 
    Levantar ou continuar de pé
 
+   Aquele que não realizar a condição "Vivo" será eliminado
+
    Quando chamada condição "Morto"
 
    Agachar ou permanecer agachado
+
+   Aquele que não realizar a condição "Morto" será eliminado
+
+   Repetir até restar apenas 1 participante
 
    
 
