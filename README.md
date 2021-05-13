@@ -98,7 +98,7 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
-   Saque no caixa eletrônico:
+   :four:**Saque no caixa eletrônico utilizando estrutura narrativa:**
 
    Conferir se o caixa eletrônico tem cédulas
 
