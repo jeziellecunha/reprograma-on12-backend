@@ -40,7 +40,7 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
 
-   Lavar pratos:
+    :two: **Lavar pratos utilizando estrutura narrativa:**
 
    Pegar pratos sujos da mesa
 
