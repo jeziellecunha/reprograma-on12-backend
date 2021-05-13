@@ -164,7 +164,7 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 7. Faça um algoritmo que some três números.
 
-   Somar três números:
+   :seven: **Somar três números utilizando estrutura narrativa:**
 
    Receber primeiro número
 
