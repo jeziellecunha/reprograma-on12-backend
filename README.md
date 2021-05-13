@@ -194,19 +194,19 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
 
-   Calcular situação de aluno:
+   :nine:**Calcular situação de aluno utilizando estrutura narrativa:**
 
    Receber primeira nota
 
    Receber segunda nota
 
-   Somar primeira mais segunda nota
+   Somar primeira nota mais segunda nota
 
    Dividir resultado por 2
 
    Se resultado maior ou igual a 7, situação aprovado
 
-   Se resultado menor que 7. situação reprovado
+   Se resultado menor que 7, situação reprovado
 
    
 
