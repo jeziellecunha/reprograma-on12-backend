@@ -212,10 +212,14 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
 
-    Calcular reajuste no salário:
+    :keycap_ten:**Calcular reajuste no salário utilizando estrutura narrativa:**
 
     Receber salário atual
 
     Se salário atual menor ou igual a R$500, multiplicar por 1,2
 
+    Mostrar salário reajustado na tela
+
     Se salário atua maior que R$500, multiplicar por 1,1
+
+    Mostrar salário reajustado na tela
