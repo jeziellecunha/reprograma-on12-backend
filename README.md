@@ -2,9 +2,9 @@
 
 _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando estrutura de narrativa, fluxograma ou pseudocódigo. Consulte a professora!_
 
-1. Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada.
+1. Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada .
 
-   Trocar lâmpada queimada:
+   :one: **Trocar lâmpada queimada utilizando estrutura narrativa:**
 
    Ligar o interruptor
 
