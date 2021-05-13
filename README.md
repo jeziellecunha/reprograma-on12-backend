@@ -180,7 +180,7 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
 
-   Descobrir se o número é par ou ímpar:
+   :eight:**Descobrir se o número é par ou ímpar utilizando estrutura narrativa:**
 
    Receber número
 
