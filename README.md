@@ -120,9 +120,9 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
-   Correção de provas:
+   :five:**Correção de provas utilizando estrutura narrativa:**
 
-   Pegar pegar primeira prova
+   Pegar  primeira prova
 
    Verificar se a primeira questão está correta
 
@@ -133,6 +133,8 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
    Verificar se a quarta questão está correta
 
    Verificar se a quinta questão está correta
+
+   Calcular noto do aluno
 
    Colocar nota ao lado do nome do aluno
 
