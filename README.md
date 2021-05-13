@@ -64,7 +64,7 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
-   Trocar pneu furado:
+   :three: **Trocar pneu furado utilizando estrutura narrativa:**
 
    Verificar se o pneu está murcho
 
